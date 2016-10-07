@@ -1,8 +1,8 @@
-Список опробованных технологий:
+Список опробованных технологий (жирненким живые, нежирненьким мертвенькие):
 
-- google groups
+- google groups - https://groups.google.com/forum/#!forum/opendata-belarus
 
-- facebook
+- facebook - https://www.facebook.com/groups/opendataby
 
 - slack
 - gitter
