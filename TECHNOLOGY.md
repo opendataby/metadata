@@ -5,7 +5,8 @@
 
 - **facebook** - https://www.facebook.com/groups/opendataby
 
+- **telegram** - https://t.me/opendataby
+
 - slack
 - gitter
 - whatsapp
-- **telegram**
