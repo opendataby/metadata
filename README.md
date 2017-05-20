@@ -13,6 +13,7 @@
 * [irc.opendata.by](http://irc.opendata.by) - IRC канал сообщества
 * [kptl.opendata.by](http://kptl.opendata.by) - Календарь прямых телефонных линий с госорганами
 * [market.opendata.by](http://market.opendata.by) - Цены Беларуси
+* [nagrady.by](http://nagrady.by) - Узнагароды Беларусі
 * [stranoved.opendata.by](http://stranoved.opendata.by) - Анализ деловой активности и социально-экономической ситуации в Беларуси
 * [svodka.opendata.by](http://svodka.opendata.by) - Гражданский мониторинг общественной безопасности
 * [tools.opendata.by](http://tools.opendata.by) - Набор инструментов и технологий для разработки
