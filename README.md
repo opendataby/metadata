@@ -1,4 +1,4 @@
-# Оборудование и материалы
+# Хозяйство на домене opendata.by
 
 | Ссылка | Название / Описание | Статус |
 | ---- | ---- | ---- |
@@ -19,7 +19,7 @@
 |  [nagrady.by](http://nagrady.by) | Узнагароды Беларусі | |
 |  [orakul.opendata.by](http://orakul.opendata.by) | Проект "Оракул". Машинные предсказания судебных решений | |
 |  [stranoved.opendata.by](http://stranoved.opendata.by) | Анализ деловой активности и социально-экономической ситуации в Беларуси | Мигрировал |
-|  [svodka.opendata.by](http://svodka.opendata.by) | Гражданский мониторинг общественной безопасности | Заморожен |
+|  [svodka.opendata.by](http://svodka.opendata.by) | Гражданский мониторинг общественной безопасности | Мигрировал |
 |  [tools.opendata.by](http://tools.opendata.by) | Набор инструментов и технологий для разработки | |
 |  [vneshtorg.opendata.by](http://vneshtorg.opendata.by) | Внешнеторговое обозрение | Мигрировал |
 |  [zapros.opendata.by](http://zapros.opendata.by) | Доска запросов на открытые данные | |
