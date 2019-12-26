@@ -22,7 +22,7 @@
 |  [svodka.opendata.by](http://svodka.opendata.by) | Гражданский мониторинг общественной безопасности | Мигрировал |
 |  [tools.opendata.by](http://tools.opendata.by) | Набор инструментов и технологий для разработки | |
 |  [vneshtorg.opendata.by](http://vneshtorg.opendata.by) | Внешнеторговое обозрение | Мигрировал |
-|  [zapros.opendata.by](http://zapros.opendata.by) (Heroku) | Доска запросов на открытые данные | |
+|  [zapros.opendata.by](http://zapros.opendata.by) (autodeploy to Heroku) | Доска запросов на открытые данные | |
 |  [zarplaty.opendata.by](http://zarplaty.opendata.by) | Мониторинг зарплат в Беларуси | Мигрировал |
 
 Всего 21 поддомен. Большинство из них работает, некоторые заморожены,
