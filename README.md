@@ -16,14 +16,15 @@
 |  [kptl.opendata.by](http://kptl.opendata.by) | Календарь прямых телефонных линий с госорганами | |
 |  [market.opendata.by](http://market.opendata.by) | Цены Беларуси | Заморожен |
 |  [lider.opendata.by](http://lider.opendata.by) | Машинные предсказания итогов выборов |  |
-|  [nagrady.by](http://nagrady.by) | Узнагароды Беларусі | |
+|  [nagrady.by](http://nagrady.by) | Узнагароды Беларусі. Маніторынг дзяржаўнай палітыкі ўзнагароджанняў | |
 |  [orakul.opendata.by](http://orakul.opendata.by) | Проект "Оракул". Машинные предсказания судебных решений | |
-|  [stranoved.opendata.by](http://stranoved.opendata.by) | Анализ деловой активности и социально-экономической ситуации в Беларуси | Мигрировал |
+|  [periskop.opendata.by](http://periskop.opendata.by) | Проект "Перископ". Оценка текущей обстановки в Беларуси | |
+|  [stranoved.opendata.by](http://stranoved.opendata.by) | Анализ деловой активности и социально-экономической ситуации в регионах Беларуси | Мигрировал |
 |  [svodka.opendata.by](http://svodka.opendata.by) | Гражданский мониторинг общественной безопасности | Мигрировал |
 |  [tools.opendata.by](http://tools.opendata.by) | Набор инструментов и технологий для разработки | |
 |  [vneshtorg.opendata.by](http://vneshtorg.opendata.by) | Внешнеторговое обозрение | Мигрировал |
 |  [zapros.opendata.by](http://zapros.opendata.by) (autodeploy to Heroku) | Доска запросов на открытые данные | |
 |  [zarplaty.opendata.by](http://zarplaty.opendata.by) | Мониторинг зарплат в Беларуси | Мигрировал |
 
-Всего 21 поддомен. Большинство из них работает, некоторые заморожены,
+Всего 22 поддомена. Большинство из них работает, некоторые заморожены,
 а некоторые в положении заготовок для будущих проектов. 
