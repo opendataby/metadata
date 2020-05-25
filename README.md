@@ -5,7 +5,7 @@
 |  [alkogol.opendata.by](http://alkogol.opendata.by) | Алкогольное обозрение | Заморожен |
 |  [atms.opendata.by](http://atms.opendata.by) | Навигатор по банкам и банкоматам | |
 |  [bezvody.opendata.by](http://bezvody.opendata.by) | 14 дней без горячей воды | |
-|  [biograph.opendata.by](http://biograph.opendata.by) | Оценка административного веса и делового влияния людей | Заморожен |
+|  [biograph.opendata.by](http://biograph.opendata.by) | Оценка административного веса и делового влияния людей | |
 |  [city.opendata.by](http://city.opendata.by) | Рабочий стол горожанина | |
 |  [day15.opendata.by](http://day15.opendata.by) | ДОД 2015 года | |
 |  [dev.opendata.by](http://dev.opendata.by) | Разработка портала | |
