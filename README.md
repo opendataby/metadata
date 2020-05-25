@@ -16,9 +16,9 @@
 |  [kptl.opendata.by](http://kptl.opendata.by) | Календарь прямых телефонных линий с госорганами | |
 |  [market.opendata.by](http://market.opendata.by) | Цены Беларуси | Заморожен |
 |  [lider.opendata.by](http://lider.opendata.by) | Машинные предсказания итогов выборов |  |
-|  [nagrady.by](http://nagrady.by) | Узнагароды Беларусі. Маніторынг дзяржаўнай палітыкі ўзнагароджанняў | |
-|  [orakul.opendata.by](http://orakul.opendata.by) | Проект "Оракул". Машинные предсказания судебных решений | |
-|  [periskop.opendata.by](http://periskop.opendata.by) | Проект "Перископ". Оценка текущей обстановки в Беларуси | |
+|  [nagrady.by](http://nagrady.by) | Маніторынг дзяржаўнай палітыкі ўзнагароджанняў у розных краінах | |
+|  [orakul.opendata.by](http://orakul.opendata.by) | Машинные предсказания судебных решений в приказном производстве | |
+|  [periskop.opendata.by](http://periskop.opendata.by) | Оценка текущей обстановки в Беларуси | |
 |  [stranoved.opendata.by](http://stranoved.opendata.by) | Анализ деловой активности и социально-экономической ситуации в регионах Беларуси | Мигрировал |
 |  [svodka.opendata.by](http://svodka.opendata.by) | Гражданский мониторинг общественной безопасности | Мигрировал |
 |  [tools.opendata.by](http://tools.opendata.by) | Набор инструментов и технологий для разработки | |
